@@ -1,0 +1,2 @@
+# TrucoPaulista
+O projeto foi criado durante um treinamento de c# no qual participei e construímos um dos jogos mais populares. O projeto embaralha as cartas e distribui a seus jogadores. Existem 6 jogadores, no qual cada um foi criado por uma equipe diferente durante o treinamento, cada um com a melhor lógica e estratégia de jogo de seus integrantes. O jogo possui um baralho e uma carta manillha. Foi criado ao final do projeto testes, no qual se pode colocar jogadores para jogar quantas vezes quiser e no final definir qual ganhou mais vezes. 
